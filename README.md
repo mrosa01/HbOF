@@ -1,2 +1,2 @@
 # HbOF
-Height-based Outlier Factors
+Personal implementation of Height-based Outlier Factors (HbOF) to rank outliers.
